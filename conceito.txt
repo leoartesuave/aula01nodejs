@@ -1,0 +1,18 @@
+export e import - serve para usar uma classe em outro lugar parecido com static
+
+npm init - cria o pacote Json;
+
+node + nome do arquivo - executa o programa;
+
+encapsulamento - guardar o cód em um método de proteção tipo get/set criado atraves de um private;
+
+set + nome do método(){
+
+} para chamar é a instancia.nome do método();
+
+get + nome método;
+
+04/07/2023
+npm set strict-ssl false(desabilitar o ssl para trafegar os dados do angular, a rede as vezes bloqueia)!!
+npm install -g typescript(somente para ver a diferença do typescript e o javascript)!!
+'tsc' + nome do arquivo - gera um arquivo em javascript(serve pra traduzir typescript para javascript)
